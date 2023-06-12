@@ -72,7 +72,7 @@
                         android:id="@+id/tvPrice"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="$ 30"
+                        android:text="30 mint"
                         android:textAlignment="center"
                         android:textColor="@color/colorPrimary"
                         android:textSize="25sp"

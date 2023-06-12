@@ -1,7 +1,6 @@
 package ca.mohawk.foodrecipeapp;
 
-//I, Vivek Patel, student number 000331374, certify that this material is my original work.
-//No other person's work has been used without due acknowledgement and I have not made my work available to anyone else.
+
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
